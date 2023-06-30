@@ -1,0 +1,12 @@
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaTransversal.Comun\bin\Debug\net6.0\AppProducto.CapaTransversal.Comun.deps.json
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaTransversal.Comun\bin\Debug\net6.0\AppProducto.CapaTransversal.Comun.dll
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaTransversal.Comun\bin\Debug\net6.0\AppProducto.CapaTransversal.Comun.pdb
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaTransversal.Comun\obj\Debug\net6.0\AppProducto.CapaTransversal.Comun.csproj.AssemblyReference.cache
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaTransversal.Comun\obj\Debug\net6.0\AppProducto.CapaTransversal.Comun.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaTransversal.Comun\obj\Debug\net6.0\AppProducto.CapaTransversal.Comun.AssemblyInfoInputs.cache
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaTransversal.Comun\obj\Debug\net6.0\AppProducto.CapaTransversal.Comun.AssemblyInfo.cs
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaTransversal.Comun\obj\Debug\net6.0\AppProducto.CapaTransversal.Comun.csproj.CoreCompileInputs.cache
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaTransversal.Comun\obj\Debug\net6.0\AppProducto.CapaTransversal.Comun.dll
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaTransversal.Comun\obj\Debug\net6.0\refint\AppProducto.CapaTransversal.Comun.dll
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaTransversal.Comun\obj\Debug\net6.0\AppProducto.CapaTransversal.Comun.pdb
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaTransversal.Comun\obj\Debug\net6.0\ref\AppProducto.CapaTransversal.Comun.dll

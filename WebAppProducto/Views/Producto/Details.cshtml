@@ -1,0 +1,67 @@
+﻿@model AppProducto.CapaNegocio.Entity.Producto
+
+@{
+    ViewData["Title"] = "Detalles del Producto";
+}
+
+<div class="col-6 m-auto">
+
+    <h1>Detalles del Producto</h1>
+
+    <hr />
+
+    <div class="card">
+        <div class="card-header bg-warning">
+            <h5 class="text-white">
+                <span class="text-dark">
+                    <i class="fa fa-eye text-white" aria-hidden="true"></i>
+                </span>
+                @Html.DisplayFor(model => model.Descripcion)
+            </h5>
+        </div>
+
+        <div class="card-body">
+
+            <dl class="row">
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.ID_Producto)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.ID_Producto)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Descripcion)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Descripcion)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Precio)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Precio)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.ID_Categoria)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.ID_Categoria)
+                </dd>
+            </dl>
+
+        </div>
+
+    </div>
+
+    <div>
+        <a class="btn btn-danger btn-sm" role="button" asp-action="Index">
+            <i class="fa fa-arrow-left text-white" aria-hidden="true"></i>
+            Regresar
+        </a> |
+        <a class="btn btn-primary btn-sm" role="button" asp-action="Edit" asp-route-id="@ViewBag.IDProducto">
+            <i class="fa fa-edit text-white" aria-hidden="true"></i>
+            Editar
+        </a>        
+    </div>
+
+</div>

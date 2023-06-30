@@ -1,0 +1,15 @@
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaDatos.Datos\bin\Debug\net6.0\AppProducto.CapaDatos.Datos.deps.json
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaDatos.Datos\bin\Debug\net6.0\AppProducto.CapaDatos.Datos.dll
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaDatos.Datos\bin\Debug\net6.0\AppProducto.CapaDatos.Datos.pdb
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaDatos.Datos\bin\Debug\net6.0\AppProducto.CapaTransversal.Comun.dll
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaDatos.Datos\bin\Debug\net6.0\AppProducto.CapaTransversal.Comun.pdb
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaDatos.Datos\obj\Debug\net6.0\AppProducto.CapaDatos.Datos.csproj.AssemblyReference.cache
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaDatos.Datos\obj\Debug\net6.0\AppProducto.CapaDatos.Datos.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaDatos.Datos\obj\Debug\net6.0\AppProducto.CapaDatos.Datos.AssemblyInfoInputs.cache
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaDatos.Datos\obj\Debug\net6.0\AppProducto.CapaDatos.Datos.AssemblyInfo.cs
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaDatos.Datos\obj\Debug\net6.0\AppProducto.CapaDatos.Datos.csproj.CoreCompileInputs.cache
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaDatos.Datos\obj\Debug\net6.0\AppProducto.CapaDatos.Datos.csproj.CopyComplete
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaDatos.Datos\obj\Debug\net6.0\AppProducto.CapaDatos.Datos.dll
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaDatos.Datos\obj\Debug\net6.0\refint\AppProducto.CapaDatos.Datos.dll
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaDatos.Datos\obj\Debug\net6.0\AppProducto.CapaDatos.Datos.pdb
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaDatos.Datos\obj\Debug\net6.0\ref\AppProducto.CapaDatos.Datos.dll

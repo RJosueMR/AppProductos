@@ -1,0 +1,97 @@
+﻿@model IEnumerable<AppProducto.CapaNegocio.Entity.Producto>;
+
+@{
+    ViewData["Title"] = "Productos";
+}
+
+<div class="col-10 m-auto">
+
+    <br />
+    <h2>Listado de Productos</h2>
+    <br />
+
+    <hr />
+
+    <br />
+
+    <div class="card">
+        <div class="card-header bg-info">
+            <h5 class="text-white">
+                <span class="text-dark">
+                    <i class="nav-icon fa fa-list text-white" aria-hidden="true"></i>
+                </span>
+
+                Lista de Productos
+            </h5>
+        </div>
+        <div class="card-body">
+
+            <div class="col-9 m-auto">
+                <table class="table table-bordered table-hover table-sm">
+
+                    <thead>
+                        <tr class="table-info">
+                            <th><center>@Html.DisplayNameFor(item => item.ID_Producto)</center></th>
+                            <th><center>@Html.DisplayNameFor(item => item.Descripcion)</center></th>
+                            <th><center>@Html.DisplayNameFor(item => item.Precio)</center></th>
+                            <th><center>@Html.DisplayNameFor(item => item.ID_Categoria)</center></th>
+                            <th><center>Operaciones</center></th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td align="center">@item.ID_Producto</td>
+                                <td align="center">@item.Descripcion</td>
+                                <td align="center">@item.Precio</td>
+                                <td align="center">@GetCategoriaById(item.ID_Categoria).Descripcion</td>
+                                <td align="center">
+                                    <a class="btn btn-primary btn-sm" role="button" asp-action="Edit" asp-route-id="@item.ID_Producto">
+                                        <i class="fa fa-edit text-white" aria-hidden="true"></i>
+                                        Editar
+                                    </a>
+                                    <a class="btn btn-warning btn-sm text-white" role="button" asp-action="Details" asp-route-id="@item.ID_Producto">
+                                        <i class="fa fa-eye text-white" aria-hidden="true"></i>
+                                        Detalles
+                                    </a>
+                                    <a class="btn btn-danger btn-sm" role="button" asp-action="Delete" asp-route-id="@item.ID_Producto">
+                                        <i class="fa fa-trash text-white" aria-hidden="true"></i>
+                                        Eliminar
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+
+                </table>
+            </div>
+
+            <br />
+
+            <div class="col-2 ml-auto">
+                <a class="btn btn-success btn-sm" role="button" asp-action="Create">
+                    <i class="fa fa-plus text-white" aria-hidden="true"></i>
+                    Nuevo Producto
+                </a>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+@functions{
+    public AppProducto.CapaNegocio.Entity.Categoria GetCategoriaById(int id)
+    {
+        foreach (var item in ViewBag.Categorias)
+        {
+            if (item.ID_Categoria == id)
+            {
+                return item;
+            }
+        }
+        return null;
+    }
+}

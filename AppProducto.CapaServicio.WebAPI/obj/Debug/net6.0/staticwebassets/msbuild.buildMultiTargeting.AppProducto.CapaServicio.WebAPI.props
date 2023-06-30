@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AppProducto.CapaServicio.WebAPI.props" />
+</Project>

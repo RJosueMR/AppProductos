@@ -1,0 +1,12 @@
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaNegocio.Entity\bin\Debug\net6.0\AppProducto.CapaNegocio.Entity.deps.json
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaNegocio.Entity\bin\Debug\net6.0\AppProducto.CapaNegocio.Entity.dll
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaNegocio.Entity\bin\Debug\net6.0\AppProducto.CapaNegocio.Entity.pdb
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaNegocio.Entity\obj\Debug\net6.0\AppProducto.CapaNegocio.Entity.csproj.AssemblyReference.cache
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaNegocio.Entity\obj\Debug\net6.0\AppProducto.CapaNegocio.Entity.GeneratedMSBuildEditorConfig.editorconfig
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaNegocio.Entity\obj\Debug\net6.0\AppProducto.CapaNegocio.Entity.AssemblyInfoInputs.cache
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaNegocio.Entity\obj\Debug\net6.0\AppProducto.CapaNegocio.Entity.AssemblyInfo.cs
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaNegocio.Entity\obj\Debug\net6.0\AppProducto.CapaNegocio.Entity.csproj.CoreCompileInputs.cache
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaNegocio.Entity\obj\Debug\net6.0\AppProducto.CapaNegocio.Entity.dll
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaNegocio.Entity\obj\Debug\net6.0\refint\AppProducto.CapaNegocio.Entity.dll
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaNegocio.Entity\obj\Debug\net6.0\AppProducto.CapaNegocio.Entity.pdb
+F:\CURSOS\Arquitectura C#\AppProducto\AppProducto.CapaNegocio.Entity\obj\Debug\net6.0\ref\AppProducto.CapaNegocio.Entity.dll
