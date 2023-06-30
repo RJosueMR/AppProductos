@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\AppProducto.CapaServicio.WebAPI.props" />
-</Project>
